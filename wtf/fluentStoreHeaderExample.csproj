@@ -7,8 +7,8 @@
     <ProjectGuid>{BB4FCA34-46C5-4B77-A3D8-91FDA07CF506}</ProjectGuid>
     <OutputType>AppContainerExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>wtf</RootNamespace>
-    <AssemblyName>wtf</AssemblyName>
+    <RootNamespace>fluentStoreHeaderExample</RootNamespace>
+    <AssemblyName>fluentStoreHeaderExample</AssemblyName>
     <DefaultLanguage>en-US</DefaultLanguage>
     <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
     <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.16299.0</TargetPlatformVersion>
