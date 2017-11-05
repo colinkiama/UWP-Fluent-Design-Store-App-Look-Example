@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentStoreHeaderExample", "wtf\fluentStoreHeaderExample.csproj", "{BB4FCA34-46C5-4B77-A3D8-91FDA07CF506}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fluentStoreHeaderExample", "fluentStoreHeaderExample\fluentStoreHeaderExample.csproj", "{BB4FCA34-46C5-4B77-A3D8-91FDA07CF506}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +38,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {47D5AB22-5E66-4773-B7E2-7053391517E9}
+		SolutionGuid = {8AD42FBE-96D4-44ED-B664-84FC1ACD0FD0}
 	EndGlobalSection
 EndGlobal
